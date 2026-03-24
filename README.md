@@ -65,6 +65,3 @@ python manage.py runserver
 
 ---
 
-## 👩‍💻 Author
-
-Palvai Pravallika  
